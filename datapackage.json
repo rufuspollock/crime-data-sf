@@ -1,0 +1,43 @@
+{
+  "author": "", 
+  "author_email": "", 
+  "extras": {}, 
+  "id": "27fd8537-b992-48a5-a633-4f6ae4cae1d2", 
+  "license": null, 
+  "maintainer": "", 
+  "maintainer_email": "", 
+  "name": "crime-data-sf", 
+  "notes": "", 
+  "relationships": [], 
+  "resources": [
+    {
+      "cache_last_updated": null, 
+      "cache_url": null, 
+      "created": "2012-05-11T20:56:25.134560", 
+      "description": "", 
+      "format": "text/csv", 
+      "hash": "b7526c3c8227b8f18494c53f65d8401adde766e4", 
+      "id": "d71c4c74-b81c-4d31-a339-b214b2f95d01", 
+      "last_modified": "2012-05-11T20:56:27.960607", 
+      "mimetype": "text/csv", 
+      "mimetype_inner": "", 
+      "name": "2012-05-11T205600/Sfpd_Incident_Last_Month.csv", 
+      "package_id": "27fd8537-b992-48a5-a633-4f6ae4cae1d2", 
+      "position": 0, 
+      "resource_group_id": "ef20a201-aff3-4ae9-874c-fd6b24150220", 
+      "resource_type": "file.upload", 
+      "size": "1951008", 
+      "tracking_summary": {
+        "recent": 0, 
+        "total": 0
+      }, 
+      "url": "https://commondatastorage.googleapis.com/ckannet-storage/2012-05-11T205600/Sfpd_Incident_Last_Month.csv", 
+      "webstore_last_updated": "2012-05-11T20:56:54.018133", 
+      "webstore_url": "http://thedatahub.org/api/data/d71c4c74-b81c-4d31-a339-b214b2f95d01/"
+    }
+  ], 
+  "tags": [], 
+  "title": "crime data sf", 
+  "url": "", 
+  "version": ""
+}
